@@ -1,0 +1,24 @@
+{
+  "name": "tristan-portfolio",
+  "version": "1.0.0",
+  "description": "HI IM TRISTAN ANDRES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoePea/TRISTAN-PORTFOLIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoePea/TRISTAN-PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/PoePea/TRISTAN-PORTFOLIO#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
